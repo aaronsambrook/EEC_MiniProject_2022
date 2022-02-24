@@ -1,0 +1,9 @@
+﻿trait_name,trait_type
+svl,Q
+jaw,Q
+hind.limb,O
+hand,O
+foot,O
+colour,N
+weight,Q
+site,O
